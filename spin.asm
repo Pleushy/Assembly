@@ -1,3 +1,5 @@
+; Code for a spinning dash | / - \ |
+
 section .data
 	clear db 13
 	delay dq 0, 100000000
